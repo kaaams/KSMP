@@ -2149,3 +2149,7 @@ hash = "cadbf17488fb3cfd146ad4b034a831dfcdd46122ef1f7c7353d93948a7e3297c"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
 hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.9d.zip"
+hash = "d56b97151104b0f5baf083994ea7dccc83d465755198e637835d45d598462c08"
