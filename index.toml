@@ -2152,6 +2152,10 @@ file = "resourcepacks/loadingbackgrounds-structures-1.0.1.zip"
 hash = "cadbf17488fb3cfd146ad4b034a831dfcdd46122ef1f7c7353d93948a7e3297c"
 
 [[files]]
+file = "servers.dat"
+hash = "8249cb930091885d4012e87883605d2b0f671c5cf4c38d43247558d626aeb286"
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
 hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"
 
