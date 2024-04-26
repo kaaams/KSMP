@@ -1438,6 +1438,11 @@ hash = "d9ad7cd094ae8d5f8e7f2a3ad309b4670a8664af89617e223344875cc55ab433"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "2959ec036a76959ce1f9cd62e949f75d9996cfcbd4d6897c094f75af5a27ba47"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "bc9c72c9e7580585dafa413ad247a3590b44cbc7380f6b50f8e2e8bda7cfb5ce"
 metafile = true
