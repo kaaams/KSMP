@@ -1429,10 +1429,6 @@ hash = "2a639307663c03f2795081e91f8ba8935e07989def80a1ae8f70dd11c86f49f4"
 metafile = true
 
 [[files]]
-file = "mods/dis-enchanting-table.pw.toml.dis"
-hash = "9b6062da13b1ce958c9efe332c084eb9b608f2232ca36304b7f0e171e54757e5"
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "d9ad7cd094ae8d5f8e7f2a3ad309b4670a8664af89617e223344875cc55ab433"
 metafile = true
@@ -1540,11 +1536,6 @@ metafile = true
 [[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
@@ -1771,18 +1762,6 @@ metafile = true
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "7159460e600aaf9f4a000bc71474227d64481bb15ef16fdd423834aa5df4ba9d"
 metafile = true
-
-[[files]]
-file = "mods/mob-drops-recipes-end.pw.toml.dis"
-hash = "9b15d535fcc2a735cf5c0cbb1a9648a3d590c6f1df13f69566d966e47ce21080"
-
-[[files]]
-file = "mods/mob-drops-recipes-nether.pw.toml.dis"
-hash = "92ea4bb1d1c8bee1ce008b8434321ca02885a8d9707c4f7dd067fa7b53a0fa84"
-
-[[files]]
-file = "mods/mob-drops-recipes-overworld.pw.toml.dis"
-hash = "05241232ede8fef1b651b003bec244e379dc159dc5ba9361b61d30a956726e4a"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
