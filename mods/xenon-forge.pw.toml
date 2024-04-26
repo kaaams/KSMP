@@ -1,0 +1,13 @@
+name = "Xenon"
+filename = "xenon-0.3.11+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aWDwN8NN/versions/JaqFrl3A/xenon-0.3.11%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "3fe71e8c80f93882a3d3c266af14d1f32d141e84"
+
+[update]
+[update.modrinth]
+mod-id = "aWDwN8NN"
+version = "JaqFrl3A"

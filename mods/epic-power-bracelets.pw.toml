@@ -1,0 +1,13 @@
+name = "Epic Power Bracelets"
+filename = "epic-power-bracelets-1.20.1-1.0.0(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FaAx7QQX/versions/1w6d3fVB/epic-power-bracelets-1.20.1-1.0.0%281%29.jar"
+hash-format = "sha1"
+hash = "89a07e46b54b5ea37054a79e66bd1f116c5eb5f4"
+
+[update]
+[update.modrinth]
+mod-id = "FaAx7QQX"
+version = "1w6d3fVB"

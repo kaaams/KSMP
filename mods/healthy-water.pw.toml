@@ -1,0 +1,13 @@
+name = "Healthy Water"
+filename = "healthywater-1.20.1-forge-1.0.0(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DcxOJQkT/versions/RrlYDdTP/healthywater-1.20.1-forge-1.0.0%281%29.jar"
+hash-format = "sha1"
+hash = "b4624bbac30917f03e7ffc1337b9357ef5bd85e5"
+
+[update]
+[update.modrinth]
+mod-id = "DcxOJQkT"
+version = "RrlYDdTP"

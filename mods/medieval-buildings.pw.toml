@@ -1,0 +1,13 @@
+name = "Medieval Buildings"
+filename = "medieval_buildings-forge-1.0.2(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sc9lpPiU/versions/1Hf0UcLB/medieval_buildings-forge-1.0.2%281%29.jar"
+hash-format = "sha1"
+hash = "9b48797a39318a98b7d19c44e553a65f9eb196c6"
+
+[update]
+[update.modrinth]
+mod-id = "sc9lpPiU"
+version = "1Hf0UcLB"

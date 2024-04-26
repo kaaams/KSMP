@@ -1,0 +1,13 @@
+name = "KSMP"
+author = "kams"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c888026a2b3a2826ed3d6788027ed109fb3a4ae1f96c2ea59e4edaff05d9aeb8"
+
+[versions]
+forge = "47.2.23"
+minecraft = "1.20.1"

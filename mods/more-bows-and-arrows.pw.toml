@@ -1,0 +1,13 @@
+name = "More Bows and Arrows"
+filename = "morebowsandarrows-merged-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8mxlh6j/versions/6D36Hj3R/morebowsandarrows-merged-1.20.1-3.0.1.jar"
+hash-format = "sha1"
+hash = "1b390e380a2914db2a18e6244a40b8bded0aaab1"
+
+[update]
+[update.modrinth]
+mod-id = "E8mxlh6j"
+version = "6D36Hj3R"

@@ -1,0 +1,13 @@
+name = "New Slab Variants"
+filename = "newslabvariants-merged-1.20.1-2.1.0(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ns0BvMIG/versions/mrEqPliF/newslabvariants-merged-1.20.1-2.1.0%281%29.jar"
+hash-format = "sha1"
+hash = "412760a30250063c9916fdf38f36ec75fd7990f6"
+
+[update]
+[update.modrinth]
+mod-id = "ns0BvMIG"
+version = "mrEqPliF"

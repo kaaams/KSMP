@@ -1,0 +1,13 @@
+name = "SuperOreBlock"
+filename = "Super-Oro-Block-4.1.0-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lFr5Bbfo/versions/dSt31YaI/Super-Oro-Block-4.1.0-Forge.jar"
+hash-format = "sha1"
+hash = "a329b2d8657674f4a61c566efe625492dd44ace6"
+
+[update]
+[update.modrinth]
+mod-id = "lFr5Bbfo"
+version = "dSt31YaI"

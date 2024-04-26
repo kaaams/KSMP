@@ -1,0 +1,13 @@
+name = "Crab Claws"
+filename = "CrabClaws-MC-1.20.1(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UWxXQFc7/versions/o1GQc9jg/CrabClaws-MC-1.20.1%281%29.jar"
+hash-format = "sha1"
+hash = "c1c5f32e4778804aaa4d4e2253973456ec1ff197"
+
+[update]
+[update.modrinth]
+mod-id = "UWxXQFc7"
+version = "o1GQc9jg"

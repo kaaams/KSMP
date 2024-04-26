@@ -1,0 +1,13 @@
+name = "StartInv"
+filename = "forge-startinv-1.0.0-1.20.1(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8jUIs1kd/versions/ddJBlJu5/forge-startinv-1.0.0-1.20.1%281%29.jar"
+hash-format = "sha1"
+hash = "7d64569bb36b944e16fc8fe3102c1fb8249b372e"
+
+[update]
+[update.modrinth]
+mod-id = "8jUIs1kd"
+version = "ddJBlJu5"

@@ -1,0 +1,13 @@
+name = "Exclusive Weapons, Armor and Tools"
+filename = "EWAT_3.0.0_1.20.1_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SMeShcIT/versions/p7vjwvdq/EWAT_3.0.0_1.20.1_forge.jar"
+hash-format = "sha1"
+hash = "58551582e26e8cd24fad8e8d3a3945b508c797d2"
+
+[update]
+[update.modrinth]
+mod-id = "SMeShcIT"
+version = "p7vjwvdq"

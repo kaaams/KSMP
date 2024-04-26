@@ -1,0 +1,13 @@
+name = "UnPaused"
+filename = "unpaused-1.20.1-forge-1.0.1(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uk12PwL9/versions/am0E7bUX/unpaused-1.20.1-forge-1.0.1%281%29.jar"
+hash-format = "sha1"
+hash = "a418ca542a859b11a5938d3e64c1434ce93307cf"
+
+[update]
+[update.modrinth]
+mod-id = "Uk12PwL9"
+version = "am0E7bUX"

@@ -1,0 +1,13 @@
+name = "Stackable Stew and Soup"
+filename = "stackablestewandsoup-merged-1.20.1-1.3.0(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zqFS0wQJ/versions/7Ycv1jWd/stackablestewandsoup-merged-1.20.1-1.3.0%281%29.jar"
+hash-format = "sha1"
+hash = "ebbe62fdb2dd353fa51d00425247e9a0574d0838"
+
+[update]
+[update.modrinth]
+mod-id = "zqFS0wQJ"
+version = "7Ycv1jWd"

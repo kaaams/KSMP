@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-1.1.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/7mm13VQW/trimeffects-1.1.1-forge.jar"
+hash-format = "sha1"
+hash = "f26fa498c15ecd07d6b8787274205fdaf84adbb6"
+
+[update]
+[update.modrinth]
+mod-id = "BL7ADJ7w"
+version = "7mm13VQW"
