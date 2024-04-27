@@ -1,0 +1,13 @@
+name = "Loading Backgrounds"
+filename = "loadingbackgrounds-1.1.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dH40biZd/versions/6IGnt1SO/loadingbackgrounds-1.1.0-forge.jar"
+hash-format = "sha1"
+hash = "c6752b85ff51082cd285569b2cedecda09156cb4"
+
+[update]
+[update.modrinth]
+mod-id = "dH40biZd"
+version = "6IGnt1SO"

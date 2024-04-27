@@ -1,0 +1,13 @@
+name = "Realistic Ocelots"
+filename = "Realistic_Ocelots.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TM94CBvz/versions/aNzZe2qV/Realistic_Ocelots.zip"
+hash-format = "sha1"
+hash = "08325fa7bccfc7b0f4c6bb85131fd358bbc95167"
+
+[update]
+[update.modrinth]
+mod-id = "TM94CBvz"
+version = "aNzZe2qV"

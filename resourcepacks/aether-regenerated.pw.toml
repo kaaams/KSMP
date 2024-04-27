@@ -1,0 +1,13 @@
+name = "Aether: Regenerated"
+filename = "Aether Regenerated v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uudmIrRl/versions/up5ntmjz/Aether%20Regenerated%20v1.2.zip"
+hash-format = "sha1"
+hash = "686e104b50aaa9bd78e91385b7ee79fdf4a71a1c"
+
+[update]
+[update.modrinth]
+mod-id = "uudmIrRl"
+version = "up5ntmjz"

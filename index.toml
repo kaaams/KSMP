@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "bbf54e3ab7bf62d7711bc7e0cd2a46cec142cbb03eeed2ef4599e77896b4c16c"
+hash = "adff4fc2089879e896e04bb6d6ac4907a0b8a9bed0608ead7d9bfe3b5f2d3313"
 metafile = true
 
 [[files]]
@@ -1654,6 +1654,11 @@ hash = "92a593afc5f1c188a65c5cf451eeb9bfe0d34f4d5354258e337ada2c0d8b701f"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
@@ -1661,6 +1666,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "8499d4b662c34a17d9531785e6ef1f279dbbc84cb60b102f5fbbd306bbbfceae"
+metafile = true
+
+[[files]]
+file = "mods/loading-backgrounds.pw.toml"
+hash = "e9cdede9b4bbf56fdac791d6dac43422b9ec7e9e927700f671bfa7f122659b22"
 metafile = true
 
 [[files]]
@@ -1846,6 +1856,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
 metafile = true
 
 [[files]]
@@ -2119,8 +2134,43 @@ file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
 hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
 
 [[files]]
+file = "resourcepacks/aether-regenerated.pw.toml"
+hash = "be3141fdf899531007be37450332a798a0de1c63442ae2953c6f3087ed8117f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/beautiful-enchanted-books.pw.toml"
+hash = "43889ee49edfd5c9eebf75340f2d757dc6ae8c1b0790076ee317b357255d941f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "53a34d654ea7b6bc9af28f4357746116c0dfb5d55fe3ed07bf35b6ff48e320d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/loading-backgrounds-loading-images.pw.toml"
+hash = "0e53c09541e15c18671f14438e8266541ac0336a78dd2daced09d55d5fbc3a17"
+metafile = true
+
+[[files]]
+file = "resourcepacks/loading-backgrounds-oceans.pw.toml"
+hash = "eaf74bb56502f4be31f5d30d955c6919c993a20549aee66a89d9f716f44ba001"
+metafile = true
+
+[[files]]
+file = "resourcepacks/loading-backgrounds-structures.pw.toml"
+hash = "0bcd0d177b013c7b423c06f5b2cb00b4c99a747670c4effaec4493449ae5b023"
 metafile = true
 
 [[files]]
@@ -2134,6 +2184,21 @@ hash = "cff5f89331c33948960e289cfd4e923e1d769c1fd83becbd518b1909a767adfa"
 [[files]]
 file = "resourcepacks/loadingbackgrounds-structures-1.0.1.zip"
 hash = "cadbf17488fb3cfd146ad4b034a831dfcdd46122ef1f7c7353d93948a7e3297c"
+
+[[files]]
+file = "resourcepacks/ore-variants.pw.toml"
+hash = "7aff616f5f356817f47ff2f1196f055050cc6bf2b05df047955562986bf6927e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/realistic-ocelots.pw.toml"
+hash = "f260e77f4ccdee4917efc1b2ebfc6d0f7cd13087d92cbf2aa8fdc4f145f89acc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/realistic-wolves.pw.toml"
+hash = "ed961e5e9f492338cdc8efe44aae8de369fa08893f0dc81b0ec1203fe5c4be7e"
+metafile = true
 
 [[files]]
 file = "servers.dat"

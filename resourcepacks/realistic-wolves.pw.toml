@@ -1,0 +1,13 @@
+name = "Realistic Wolves"
+filename = "Realistic Wolves(1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ctsYF3nI/versions/nlECqIaQ/Realistic%20Wolves%281%29.zip"
+hash-format = "sha1"
+hash = "ab9be9053ce6471ebc9e920cdc59493638c24151"
+
+[update]
+[update.modrinth]
+mod-id = "ctsYF3nI"
+version = "nlECqIaQ"
