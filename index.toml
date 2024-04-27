@@ -1544,6 +1544,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "fc670c15d0eb5ddd2210c60bc7c7dfb9eb14803e71ac3ac6ef1004cf086bb298"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "148adc903fe1409402b123101158cfb84054ba5b4e4826e017cb3d509d8fb9b2"
 metafile = true
@@ -1741,6 +1746,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "db40389c09775cc7ac7837ca14fa9ebfd8e6ed073918a451e758c3fe3a67d9f7"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "cc936594e8fa7df93eaf97933a0b37bb4c1eb30e26ef3e22dacef2837cd49433"
 metafile = true
 
 [[files]]
