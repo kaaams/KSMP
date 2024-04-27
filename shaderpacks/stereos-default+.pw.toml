@@ -1,0 +1,13 @@
+name = "Stereo's Default+"
+filename = "Stereo's_Default+_v2.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OT1P0oHO/versions/sccT8gps/Stereo%27s_Default%2B_v2.4.zip"
+hash-format = "sha1"
+hash = "e7cd3d25817cd1fcd387db16b44b4cb22f5de3c7"
+
+[update]
+[update.modrinth]
+mod-id = "OT1P0oHO"
+version = "sccT8gps"

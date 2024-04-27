@@ -2119,6 +2119,11 @@ file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
 hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/loadingbackgrounds-2.0.1.zip"
 hash = "55810356b72d2fff4bf1e05e6b5e92ad6b623eba51400e6655d5f13a578f2d0a"
 
@@ -2135,9 +2140,26 @@ file = "servers.dat"
 hash = "8249cb930091885d4012e87883605d2b0f671c5cf4c38d43247558d626aeb286"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
-hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
+metafile = true
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.9d.zip"
-hash = "d56b97151104b0f5baf083994ea7dccc83d465755198e637835d45d598462c08"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/stereos-default+.pw.toml"
+hash = "01973f190b3c66dba29d560cf465ed714fabc80110b21c9480bcffe5cceb7157"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
+metafile = true
