@@ -2114,20 +2114,8 @@ hash = "eaa9678b7f6aee59266500c8d3fec01f7bce7c8fe5a0517747e9676cb0d2f1fc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Beautiful Enchanted Books.zip"
-hash = "9d9562b584250fa10f5673a3bb392aa96a44f002557a193c8d85c23c20c09790"
-
-[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/Realistic Ocelots.zip"
-hash = "9d09850c62e2c2c64f1f9311db9f2ac3df9fca08086c7561d9222d99458851d3"
-
-[[files]]
-file = "resourcepacks/Realistic Wolves.zip"
-hash = "0cf2570debc55f4a99e16bee7306fe414bb4a7b12b3e1459276f33ccd6fb5f7c"
 
 [[files]]
 file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
@@ -2154,11 +2142,6 @@ hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
 metafile = true
 
 [[files]]
-file = "resourcepacks/icon-xaeros.pw.toml"
-hash = "53a34d654ea7b6bc9af28f4357746116c0dfb5d55fe3ed07bf35b6ff48e320d9"
-metafile = true
-
-[[files]]
 file = "resourcepacks/loading-backgrounds-loading-images.pw.toml"
 hash = "0e53c09541e15c18671f14438e8266541ac0336a78dd2daced09d55d5fbc3a17"
 metafile = true
@@ -2172,18 +2155,6 @@ metafile = true
 file = "resourcepacks/loading-backgrounds-structures.pw.toml"
 hash = "0bcd0d177b013c7b423c06f5b2cb00b4c99a747670c4effaec4493449ae5b023"
 metafile = true
-
-[[files]]
-file = "resourcepacks/loadingbackgrounds-2.0.1.zip"
-hash = "55810356b72d2fff4bf1e05e6b5e92ad6b623eba51400e6655d5f13a578f2d0a"
-
-[[files]]
-file = "resourcepacks/loadingbackgrounds-oceans-1.0.0.zip"
-hash = "cff5f89331c33948960e289cfd4e923e1d769c1fd83becbd518b1909a767adfa"
-
-[[files]]
-file = "resourcepacks/loadingbackgrounds-structures-1.0.1.zip"
-hash = "cadbf17488fb3cfd146ad4b034a831dfcdd46122ef1f7c7353d93948a7e3297c"
 
 [[files]]
 file = "resourcepacks/ore-variants.pw.toml"
