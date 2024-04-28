@@ -1654,6 +1654,11 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "6818bf161761ad178fa7eafa87a633f10433d5bfe2371bcaadb5e22fbb205bea"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "8499d4b662c34a17d9531785e6ef1f279dbbc84cb60b102f5fbbd306bbbfceae"
 metafile = true
