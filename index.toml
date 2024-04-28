@@ -26,7 +26,7 @@ hash = "78251ca25dac8e26284e9cbb0c8032b313d58ec9e2be90e9544b6bd0ccd67dfe"
 
 [[files]]
 file = "config/aether-common.toml"
-hash = "ffd0f22a5fa674c5e711f1ba20e13a25203bb5139ecd5bb93ff2bcf6ad3dfb3f"
+hash = "1eec3611e02f78d9ec48e51684c43f700b414a1d4c893eebed1e8db81e45b775"
 
 [[files]]
 file = "config/aether/aether_customizations.txt"
@@ -70,7 +70,7 @@ hash = "d6d7d5becfd20cca48dabcb838021694740bd874fba80a259b05d37bcc720a43"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "388ee6a695aaa8c92f6d308a96b0cd5693f0110ae6405cc05d0ee51c4a084e2d"
+hash = "1be7218a59893ff4b66de988c6f8f4b850d82be93fd12140bd8f4d70e0af4e91"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -749,10 +749,6 @@ file = "config/farmersdelight-common.toml"
 hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
 
 [[files]]
-file = "config/fastbench.cfg"
-hash = "240a14e19d211945629e719c0df4ff6b537d26fcf58b514b7f7c731b3ad69183"
-
-[[files]]
 file = "config/fastsuite.cfg"
 hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
 
@@ -1061,14 +1057,6 @@ file = "config/tradingpost-server.toml"
 hash = "9b8e43967d82532c59db13620f764f47ab6aef83fdf6ad50f71a24a384c34f7c"
 
 [[files]]
-file = "config/travelersbackpack-client.toml"
-hash = "1006defaeddb1f7926c36422e18dd387d713584bf3313d4555e09af492e30684"
-
-[[files]]
-file = "config/travelersbackpack-common.toml"
-hash = "f57a4bd9481bcee1c46883d8538ff5a3ec89de9c10f46af8b2e483175fdd0a49"
-
-[[files]]
 file = "config/trimeffects-config.json"
 hash = "b43139a9330be34e1b2d15aeadb93aaa1eaebff5bd2a0f61f827616f8cf8fbe5"
 
@@ -1125,20 +1113,12 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
-hash = "c7bff49c0e15e874c47fd601408383c56e6a9d7450c6da2bbec9883b26c21043"
-
-[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "843856967f5b56c536ab5064b9340dc2302ff8b02531f257ae0a474950174a9e"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "a67ed5614daa4a9bd650ff2db874bdb2f586c0491c89ee06086231749c0287b4"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
-hash = "9b6a3060072864d7ebb8a0d1232e61439579d0f4908c1eff63b9ea7eef397c2b"
+hash = "1ad1f7fbaa65e564ffcfc74b3228cfdea5f87f568c1fc5f53c96a40bd6a65bb6"
 
 [[files]]
 file = "config/waystones-common.toml"
