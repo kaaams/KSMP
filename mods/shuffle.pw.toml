@@ -1,0 +1,13 @@
+name = "Shuffle"
+filename = "shuffle-forge-9.0.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/JwvA58vK/shuffle-forge-9.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "9a8ad62f079ca283a37da51a28cd38a8f806ae9a"
+
+[update]
+[update.modrinth]
+mod-id = "WUvGZLgB"
+version = "JwvA58vK"

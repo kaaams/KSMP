@@ -1254,6 +1254,11 @@ hash = "f21c4e0ad9099df15ca3000c9b3e52d902451f5689ecdcc203f6a1fd9691acd1"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "af7097caf7339e88dc4b525ea70f30fb810a2e475cdc2fe710686af5f56e095c"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
@@ -1916,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "5389354435cc9f85fa8f8d8ba037587deede2493da7bb0967a7cd3446f36eaa2"
+metafile = true
+
+[[files]]
+file = "mods/shuffle.pw.toml"
+hash = "6e560b9effaf75f3007016608c7af96ae897e2f5d90114477464adc57aca0367"
 metafile = true
 
 [[files]]
