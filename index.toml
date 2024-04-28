@@ -1620,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
+hash = "d1a7cd27f2da4e99db5e85ae66118481d777aab2870edbb093af12d70d872840"
 metafile = true
 
 [[files]]
