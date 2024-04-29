@@ -1189,11 +1189,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "5f51558531f20212e8eed2983c576835d30065b7a534a5c7a1ff5f0bb2497f1c"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -1951,11 +1946,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
 metafile = true
 
 [[files]]
