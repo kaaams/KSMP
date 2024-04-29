@@ -1374,6 +1374,16 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "ad9eb3d61b37994391cb9a3be0abbec47b23992c7b426c954d19eedd4906c9ef"
+metafile = true
+
+[[files]]
 file = "mods/crab-claws.pw.toml"
 hash = "9e78021f503c366bac057e58e3b5bb2d6d9092181383b12afe162b0dfdfbccee"
 metafile = true
