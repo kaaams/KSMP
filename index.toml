@@ -1189,11 +1189,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "5f51558531f20212e8eed2983c576835d30065b7a534a5c7a1ff5f0bb2497f1c"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
