@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-expansion.pw.toml"
-hash = "5389354435cc9f85fa8f8d8ba037587deede2493da7bb0967a7cd3446f36eaa2"
+hash = "a208fa94c716ef9c72689584febd98575d544f7a867a622fa50ca8223bd40f82"
 metafile = true
 
 [[files]]
