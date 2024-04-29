@@ -1420,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "69b74921770b1542cb18164aed9142e12145190e1ed4aaa6688b52ac28767758"
+hash = "3367d971e4b322115fd4774b198f462ae2db8b73670dce90ba82796ef9b58ba0"
 metafile = true
 
 [[files]]
