@@ -1,13 +1,13 @@
 name = "Dungeon Now Loading"
-filename = "Dungeon Now Loading-forge-1.20.1-1.0.1.jar"
+filename = "Dungeon Now Loading-forge-1.20.1-1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/VlU0PV0X/Dungeon%20Now%20Loading-forge-1.20.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/pAQkzzvR/Dungeon%20Now%20Loading-forge-1.20.1-1.3.jar"
 hash-format = "sha1"
-hash = "23ae5825ee35475a1add2a0eb24cdbe6210be8a4"
+hash = "dd7f2759102457b444d492440e929d373b219d64"
 
 [update]
 [update.modrinth]
 mod-id = "vZoqTqwv"
-version = "VlU0PV0X"
+version = "pAQkzzvR"
