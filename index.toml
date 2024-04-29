@@ -1385,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-delight.pw.toml"
-hash = "95e5aa5a0ab80ce0df6d0d9b9515821db52e2c359744b57196602cc4fea48f96"
+hash = "9b7eadca4b93367be0465c5b662be8fa0f89d9b6a1cbf4d06add542f84cd4978"
 metafile = true
 
 [[files]]
@@ -1630,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "b3319815b58da5ea01df59051daed685fe6da3f839a4a2c7b868ab59cadc1473"
+hash = "af9d3807b2ed2f127c9be685d07100a2860540fe8950afeb2676b9a23ce6e158"
 metafile = true
 
 [[files]]
