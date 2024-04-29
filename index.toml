@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-weaponery.pw.toml"
-hash = "410ede91cc3892bf89e17da5100cb4c86df2a67ab452dfbc8986f59164e84dfc"
+hash = "2f8faef29b66edc8fa717aa146391357e1ea1c2b6a98497edfc90e4d9c43f729"
 metafile = true
 
 [[files]]
