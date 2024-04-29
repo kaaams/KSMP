@@ -1949,11 +1949,6 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
-metafile = true
-
-[[files]]
 file = "mods/stackable-stew-and-soup.pw.toml"
 hash = "8cb8226a5e7bdb49c0afda0a66daaef0d747918a4a48f858035ba511e25593e7"
 metafile = true
@@ -2011,11 +2006,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "b30268af73bb1b6a3e8413f0454c61c8b5150b6774e74ac7b002948c2f794a41"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "5dc49fed1045ca205ac2a750bb34e3e2526bf9577498b4013fc79efd67e6dd89"
 metafile = true
 
 [[files]]
