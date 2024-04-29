@@ -1960,7 +1960,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-refill.pw.toml"
-hash = "3f48b313656870c24b379d60849ed441a913a7962b36cf61003b52b0b818d302"
+hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
 metafile = true
 
 [[files]]
