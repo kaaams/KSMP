@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "23f58e86af579b06e170538df85988c23d131409eb45765c383de3a2fce22b86"
+hash = "801f5f50e8f6022f58e6ff62198958a81924ef6058f52ae6d115952311c5ac6d"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "7c05e86eb30a83acb4186b0f0771baf21b7107fb1d0cc0d5d3030405dd15a60c"
+hash = "476350d26c377ffb72133ff1f6e560892b563447c0ad2cba7e1f6d0218438ebb"
 metafile = true
 
 [[files]]
@@ -1325,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d36f49cad940db9f2b494c77a0b918529227127e91a0986da6ea11bcc1bceda4"
+hash = "5311cdb6867a08aa514c451dcd0b88a9d2fa9f9244a74265bb61d1396ac274b2"
 metafile = true
 
 [[files]]
@@ -1350,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
+hash = "64e8cc77caf3ee3811d6cfbe717b148ae51114eb40a809dad70a49fa91eaa36c"
 metafile = true
 
 [[files]]
@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmeticarmours.pw.toml"
-hash = "ad9eb3d61b37994391cb9a3be0abbec47b23992c7b426c954d19eedd4906c9ef"
+hash = "5ae4e23007aef40bff94d24834af45c91d01329625122f8bc8cd4472ee97d8e3"
 metafile = true
 
 [[files]]
@@ -1480,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86f8f62ec839289870d144537b4c171020efbe16d851ca3b541483f65a774a3d"
+hash = "a3461b342acacec7af9b2c6c99df28fc1653d38e11014143c471904808296bca"
 metafile = true
 
 [[files]]
@@ -1540,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "fc670c15d0eb5ddd2210c60bc7c7dfb9eb14803e71ac3ac6ef1004cf086bb298"
+hash = "8e7f829815375054e86e74292ee9185cc316a2efc31bf6c9c591686c13b20852"
 metafile = true
 
 [[files]]
@@ -1750,7 +1750,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "cc936594e8fa7df93eaf97933a0b37bb4c1eb30e26ef3e22dacef2837cd49433"
+hash = "1b393548b32a73fc41f7c4e17a2edb7ee146bc872c419e8623647abc90afb919"
 metafile = true
 
 [[files]]
@@ -1795,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "aab948eb94089a87e5734523b7a1dd9b3eec1d6e03ae944214ed2b2644b7a4ed"
+hash = "18e9cb3233babb382a88f288f81ee9414daa2b5186ec30be47e6170e860361f9"
 metafile = true
 
 [[files]]
@@ -1840,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7afafccec842ffdc2cb98052f7bc90bfa7ef9a0b307d96b409fb13e892ef86d1"
+hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
 metafile = true
 
 [[files]]
@@ -1850,7 +1850,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "116c02a8e74d809ce582385edadffddc52bb374f26d2cf7827e069b42db9cef8"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
@@ -1910,7 +1910,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
+hash = "3c67f578d6e432d9724d227569fde6a476a3b17106e846208f083e427c51b6cf"
 metafile = true
 
 [[files]]
@@ -1930,7 +1930,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "74086fbcc6777ae5c6d5542a11529ba15be9839384b42be366ece980511151d2"
+hash = "ba1617d3d404b9d35f535ada261ab12617f7aaa3ef227b7164718b46fc8a5a24"
 metafile = true
 
 [[files]]
