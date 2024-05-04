@@ -1304,6 +1304,11 @@ hash = "64be5125bb867f68dec3ca9241395373ea49142b0fc0edf3a39bc12955b76b82"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "8abf1260dfabe955e26eb5ad718c0d5eda8ede1b5c27f62b64120ad90b3af5e4"
 metafile = true
@@ -1554,6 +1559,11 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5896fbed8723b44f83a2d81f4fbf9fe3bd601fedc5b20a30550e14a15965e40c"
+metafile = true
+
+[[files]]
 file = "mods/gml.pw.toml"
 hash = "0ca939c3a2cac1cc9cc685fb73372a13c951c470766cae3dcc2ae5de181fcfc2"
 metafile = true
@@ -1609,13 +1619,18 @@ hash = "efe2cf4839f9a4f8f849f16e5b3c6893a3169ec4506fe9a5df6f7c7a5b0fdc4f"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "cfbbba9b48990624c7ba7d5084f97aa0d704f29a0fe84294ef0be5ad0fee545e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "c0a0a1e85892a9546c1c69761db4d676e8ff63f67dd203b9d1ad1dc0b07d7b0f"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+hash = "98727baa5596efd274e4f99cddda4f289931bc14f527261c76f1f959fc3a0eb3"
 metafile = true
 
 [[files]]
