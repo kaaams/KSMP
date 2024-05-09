@@ -1,13 +1,13 @@
 name = "L_Ender's Cataclysm(Cataclysm)"
-filename = "L_Enders_Cataclysm-1.99 - Recipefix -1.20.1.jar"
+filename = "L_Enders_Cataclysm-1.99.2 -1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/iw63gTDC/L_Enders_Cataclysm-1.99%20-%20Recipefix%20-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/XHhmgiU9/L_Enders_Cataclysm-1.99.2%20-1.20.1.jar"
 hash-format = "sha1"
-hash = "a9bd56cb4d7c8b9ea83be1579c887f619702bea8"
+hash = "84983fca52edd233ac0aff906bddbcd8746be192"
 
 [update]
 [update.modrinth]
 mod-id = "46KJle7n"
-version = "iw63gTDC"
+version = "XHhmgiU9"
