@@ -1399,6 +1399,11 @@ hash = "9e78021f503c366bac057e58e3b5bb2d6d9092181383b12afe162b0dfdfbccee"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "4570d2a0795ae991299fb19575a367a848024f81a5bf450f380534f3a04874ee"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "2cbb3ab76fd3f3b31d67bceae9e704953e5741dfab13837b88c580a86ea09a4f"
 metafile = true
@@ -1926,6 +1931,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "798736c2992b4c47d0fe3bd146ff105a2a707d75e9dc0f87ca13e157ac1df32e"
 metafile = true
 
 [[files]]
