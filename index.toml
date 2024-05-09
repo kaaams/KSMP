@@ -934,7 +934,7 @@ hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
 
 [[files]]
 file = "config/naturescompass-common.toml"
-hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
+hash = "838e4788d60dff45df7522dddc689a638cedaead0a930c92448add92c9d2008f"
 
 [[files]]
 file = "config/notenoughanimations.json"
