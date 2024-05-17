@@ -1940,6 +1940,11 @@ hash = "116c02a8e74d809ce582385edadffddc52bb374f26d2cf7827e069b42db9cef8"
 metafile = true
 
 [[files]]
+file = "mods/offlineskins.pw.toml"
+hash = "970fbf2f21dc3ca08bf7ee151bfc9cbf560b4a3640965f4ee165b1cf3de5c376"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
