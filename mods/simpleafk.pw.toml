@@ -1,0 +1,13 @@
+name = "SimpleAFK"
+filename = "simpleafk-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bI9lnAFH/versions/Lnq1Dcai/simpleafk-1.1.2.jar"
+hash-format = "sha1"
+hash = "b04ad256833b01ed19fe5354e9490a7a8a6a0994"
+
+[update]
+[update.modrinth]
+mod-id = "bI9lnAFH"
+version = "Lnq1Dcai"

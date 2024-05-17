@@ -1285,6 +1285,11 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
 hash = "e0d521cf1a52a23ed3363a4ef21aa10fadcec575d7ef5003847d7b62e0159f2c"
 metafile = true
@@ -1347,11 +1352,6 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
-metafile = true
-
-[[files]]
-file = "mods/camera-mod.pw.toml"
-hash = "8abf1260dfabe955e26eb5ad718c0d5eda8ede1b5c27f62b64120ad90b3af5e4"
 metafile = true
 
 [[files]]
@@ -1557,6 +1557,11 @@ metafile = true
 [[files]]
 file = "mods/exclusive-weapons-armor-and-tools.pw.toml"
 hash = "9b7d8450d078a1085c2a4ac8953b6aaea4c16f49e27054af610e980bfc144971"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "5eb5a1b0ce99c73188ebfd5d45d2c563fe745556ad18d7e1dc745a70afd55e1b"
 metafile = true
 
 [[files]]
@@ -2020,6 +2025,11 @@ hash = "32b58b4861c38d0e4de5688dc7a9077f15118037e4a4bfe3531abcf08b3d8ae9"
 metafile = true
 
 [[files]]
+file = "mods/simpleafk.pw.toml"
+hash = "b7cf0aa93ebb379ac1b7c1e47d39f4bc5053bc129ab6e05647f7dfd98746ccb1"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
 metafile = true
@@ -2132,6 +2142,11 @@ metafile = true
 [[files]]
 file = "mods/unpaused.pw.toml"
 hash = "5f190ec104ee8556fdfb838b35fec73417165eedcc6885abc0a8cf59a052fc13"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "aa14a52527ba80da5b83aec206617c08f0d20e5d4de62bb9ff79523cd3771282"
 metafile = true
 
 [[files]]
